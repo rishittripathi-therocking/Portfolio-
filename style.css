@@ -1,0 +1,38 @@
+.body {
+	font-family: 'Lato', sans-serif;
+    color:#7d97ad;
+    font-weight:300;
+}
+img {
+	width:100%;
+	margin-right:auto;
+	margin-left:auto;
+	height:100vh;
+}
+
+.htag {
+    height:5px;
+	background-color: #7d97ad;
+}
+.text-thin {
+    font-size:46px;
+    font-weight: 100;
+}
+.text-color {
+    color:#2d3c49;
+    font-weight:400;
+}
+.text-w {
+    font-size: 30px;
+}
+div {
+	margin: auto;
+}
+.anch {
+    color:#2d3c49;
+}
+.anch:hover {
+    text-decoration: none;
+    color:#2d3c49;
+}
+
